@@ -1,82 +1,164 @@
 # Episode 2: "CROSSING"
 
-**Series:** *Floaty Islands with crystals* (working title)
-**Runtime target:** 18-24 minutes
-**Threads featured:** 
-- A (Tethermoor) - primary main storyline; 
-- B (The Spire) - secondary storyline with "the government", only a quick appearance like in Ep1; 
-- C (The Traders) - introduced in this episode, will be a minor storyline later once it separates from the main thread;  
-- D (Comic relief/Bram) - Tethermoor bar, could split into two later, one for Bram and one for Tova and the ones who stayed at Tethermoor (but then the main thread will have to be renamed)
+**Floaty Islands with crystals** (working title)
 
-**Max on-screen at once:** 5 (Scene 15)
+**Episode runtime target:** 15 minutes (measures 12 minutes 10 seconds*)
+
+## Storylines:
+
+### A Tethermoor:
+
+ - A/1: Main quest, Wren and June trying to save Tethermoor
+
+### B The Spire:
+
+ - B/1: Crystal crisis caused by the Mothercrystal's decline, the rationing vote and its political consequences
+
+### C The "Traders" (Rell & Hask):
+
+ - C/1: Rell and Hask's relationship with Wren and June
+
+### D Comic relief / side stories:
+
+ - D/1: Bram
 
 ---
 
-## SPOILER WARNING
+## Exposition - SPOILER WARNING
+### Do not read this part for full immersion, it contains information not directly stated in the actual script.
 
-## Exposition 
+ - In scene 1 a day has passed since the last episode, so we get the morning reading again.
 
-### (Read this only if something doesn't make sense, otherwise I suggest not reading it to keep the mystery, or only reading it at the end)
+ - The Inner Spire is the central area of the Spire controlled territories. It's heavily regulated and guarded. Surrounding The Inner Spire is a wall constructed on top of smaller islands along its edge. These islands (and everything inside The Inner Spire) are held up by The Mothercrystal.
 
-> Scene 1: A day has passed since the last episode, so we get the morning reading again.
+ - The Outer Spire is the area under strong influence of The Spire. It's not as heavily regulated or guarded as The Inner Spire, but still strongly controlled. Surrounding it is a rope wall, constructed recently enough that some still don't know about it. It's always extending, as Spire influence stretches far from its borders.
 
-> The Outer Spire is the area under complete influence of The Spire, covers 20-30 clusters outwards from The Inner Spire. Along its edges a long line is constructed from rope, separating it from the areas outside the outer Spire.
-
-> The Inner Spire is the central cluster which the Spire (as in the government) operates on. Its surrounded by little islands connected by a wall on top of them. While one can easily fly into and out of the Outer Spire, the Inner Spire has guards and cannons ready to shoot down anyone coming from above or below the walls.
-
-> Driftwood is a cluster like Tethermoor, run-down, a little marketplace (possibly seen in the future).
+ - Driftwood is a cluster, a little run-down marketplace / dock. (unseen)
 
 ### Previous exposition related to this episode as well:
 
+- The Sundering was a big event hundreds of years ago, which scattered the world into floating islands.
 
-> The Sundering: big event a few hundred years ago, which scattered the world into floating islands with crystals.
+- "Clusters" are small groups of islands held up and together by a crystal. Most of them have a central island, which is considerably larger than the few smaller ones surrounding it.
 
-> "Clusters" are a small group of islands held up and together by a crystal. Most of them have a Central Island, which is considerably larger than the few smaller ones surrounding it. Examples are Tethermoor and the Spire.
+- The Spire can refer to:
+  The area around which the world is centered
+  The biggest cluster, one in the middle of the center area
+  The main island of the aforementioned cluster
+  The government, running mainly on this cluster and its main island
 
-> The Spire refers to "the central cluster", its main island, or the government running on it (the government has power through the distribution of crystals, the world is otherwise really roughly  or not at all regulated).
+- The power of the government comes from distribution of crystals, the farther you get from The Spire the less regulated the world becomes
 
-> Crystals are what make islands float/keep them together. Smaller crystals are "grown" on the Mothercrystal, and then distributed by The Spire. Smaller crystals power the airships, but some older ones float via balloon. the crystals only make the ships float, they still need an engine to move. 
+- Crystals possess power to keep material floating, and bound together. The size and quality of a crystal is proportional to its power. Clusters are held up by such crystals, opposed to natural islands (which have them somewhere in the ground). Most clusters have a crystal housing (central building with the crystal) where the crystal floats in containment. Airships can also be powered by crystals, usually smaller ones. The crystal only keeps the ship afloat, it still needs other power to move. Crystals are also a source of an electricity-like power. Combining these two qualities, expensive "official" ships (made by the Spire) do not need fuel to work, because their movement is powered by crystal energy. Harvesting the electric energy from crystals is a very delicate process, much harder than attaching something to the crystal to make it float.
 
-> The Hallowsen quake (working name, AI) is some kind of crystal shaking event, happened before most of our main cast was born, the only one to really live through it is Yara, as she's really old (I mean 100+ or possibly 200+, whatever fits the story best). Marl was only a few years old back then, but he really likes to talk about experiencing it.
-
+- The Hallowsen quake (working name) is an event referenced by Marl, it happened long before most of our main cast was born. Little is revealed about it, other than the fact it had something to do with crystals.
 
 ## New Characters appearing this episode:
 
-*Voicing notes included for each - gender can be flipped if it suits cast better (which it probably will)*
-*Names are working names, change freely*
+*Voicing notes included for each*
+*Some names were picked from an AI generated list, may change them later*
 
-### Thread C - The Traders 
+### Thread C - The "Traders"
 
-- **Rell** - leader of the trading outfit. **Female.** Mid-thirties to forties. Morally grey, resourceful, has history with the Spire she doesn't explain. Speaks with a light pirate flavor - "ahoy," "aye," -  without playing it as a full pirate caricature, more like an old habit of speech from wherever she's from. Voice should be smooth, unhurried, conversational even mid-con. She rarely raises her voice and listens more than she talks, which makes people fill silences by oversharing, knows a lot of information.
+#### Rell
+ - Female. Mid-to-late 40s.
 
-- **Hask** - Rell's second-in-command. **Male.** Loyal to Rell specifically, not to the work. Skeptical of outsiders, slow to warm up. Voice should be blunt, economical, dry humor delivered flat. Doesn't smile much, isn't humorless. 
+ - Charismatic and confident, speaks with a slight pirate flavor despite presenting herself as a trader. She has very good social skills, she can enter most places where she doesn't belong and act as if she did without anyone noticing. She's really good at getting information she wants out of people, while not telling them anything. She likes to answer in ways that are technically truthful, but misleading. Morally gray and transactional, has history with The Spire she doesn't explain.
 
-### Thread D - Comic relief / Tethermoor bar
+ - Appearance: Tall with natural proportions, dark red hair. Wears pirate-like clothing, including a hat.
 
-- **Bram** - the sailor who sold June his airship (mentioned, unseen, in Episode 1). **Male.** Older, weathered, has owned and lost more airships than he can remember, and likes to talk about them. Not actually sad, performs sadness for sympathy and free drinks. Voice should be loud, theatrical, given to wild and escalating exaggeration. Comic timing comes from overexaggerating, and making up obviously fake stories. Kind of clumsy at times.
+ - Voicing notes: Smooth, confident and unhurried. Her light pirate flavor ("aye," "ahoy," etc.) should never be played as a caricature. She sounds casual in stressful situations.
 
-- **Tova** - bartender. **Female.** Dry, unbothered. She has some kind of past with Bram, but she doesnt particularly like him, nor dislike him. She does like correcting Bram's stories though.  Voice should be flat, funny through sheer lack of reaction. 
+#### Hask
+
+ - Rell's second-in-command. Male, a few years older than Rell.
+
+ - Strong, practical and highly competent, doesn't like unnecessary conversation, therefore he doesn't talk much. Loyal not to the job, but Rell specifically. He generally agrees with Rell and her methods, even when she keeps things from him. More emotionally understanding and competent than he seems.
+
+ - Appearance: Strongly built, shorter than Rell. Balding at the center of his head, some dark graying hair left on the sides.
+
+ - Voicing notes: Blunt, economical and dry. Doesn't waste words, but isn't emotionless.
+
+
+### Thread D - Comic relief / side stories
+
+#### Bram
+ - Sailor and chronic storyteller, male, mid-40s.
+
+ - A weathered but energetic man who has owned, and lost, enough airships to have accumulated an endless supply of stories about them. Bram exaggerates his stories constantly and doesn't really care about whether anyone believes him. He's a dramatic and shameless storyteller. Most of his problems come from bad judgment, overconfidence and his tendency to make simple situations worse.
+
+ - Voicing notes: Loud, theatrical and expressive. Stories should escalate as he tells them. He should sound genuinely convinced by his own exaggerations.
+
+#### Tova
+ - Bartender, female, mid-30s.
+
+ - Dry, observant and impossible to impress. Familiar with Bram, knows him well. Rather than actively disliking him, she treats him as an inconvenience she's learned to manage. Enjoys correcting him and calling out his exaggerations.
+
+ - Voicing notes: Flat, most of the comedy should come from how little she reacts to Bram's increasingly ridiculous stories.
 
 ## Returning Characters from the previous episode:
 
-### Thread A - Tethermoor (an outer cluster)
+### Thread A - Tethermoor
 
-- **Wren** - protagonist. **Female.** Late teens. The cluster's engineer/fixer — the one who keeps things running when no one else can. Practical, a little stubborn, takes responsibility for things that aren't her fault. Voice should be grounded and direct, she doesn't waste words, doesn't perform emotion, but it leaks through at the edges. Not loud. Most comfortable when she's solving something with her hands.
+#### **Wren**
 
-- **June** - *Legacy: Sora* - Wren's best friend; airship mechanic and occasional pilot. **Female.**  Confident, a little reckless, talks fast and teases easily, but genuinely reliable when it counts. The contrast to Wren: where Wren is careful and methodical, June is impulsive and improvises. Voice should be loose, energetic, quick with a joke, but capable of being completely serious in a heartbeat when something actually matters.
+ - Protagonist, **female**. Aged 20-22
 
-- **Yara** - (mentioned but not appearing) - the cluster elder. **Female.** Keeper of pre-Sundering stories and fragments. Calm, speaks carefully, knows more than she says. Voice should be slow and deliberate, she never rushes a sentence, which makes it land harder when she finally says something blunt. Warm, but a little distant, like she's always thinking two steps ahead.
+ - Tethermoor's engineer and fixer, and exceptionally talented at it. She genuinely enjoys engineering and likes keeping things working, often becoming invested in problems simply because something being broken bothers her. Thoughtful and practical, but not always cautious: when she has time, she likes to think things through, while situations involving people she cares about can push her into acting first and thinking afterward. Reserved around strangers and rarely starts conversations herself. Her strongest instinct is to protect the people she cares about.
 
-### Thread B - The Spire 
+ - Appearance: Steampunk-influenced mechanic's clothing.
 
-- **Overseer Castellan Vey** - head of the ruling Council. **Female.** Composed, tired in a way, she hides well. Voice should be measured and quiet even under pressure - she rarely raises her voice, which makes her authority feel earned rather than forced.
+ - Voicing notes: Grounded and direct, with little unnecessary performance. She is reserved, not emotionless, not loud. She is most comfortable when she has something practical to focus on.
 
-- **Councilor Brask** - hardliner on the Council. **Male.** Mentioned / seen briefly. Sets up future conflict. Voice should be clipped, impatient - someone who treats hesitation as weakness.
+
+#### **June**
+
+ - Secondary protagonist, Wren's best friend, **female**. Aged 20-22
+
+ - An airship mechanic and occasional pilot who is confident, energetic, and highly comfortable improvising. She enjoys adventure and rarely spends much time asking whether an idea is sensible before trying it. She takes risks partly because she trusts herself to handle whatever goes wrong. Loyal to Wren. More technically competent than she is passionate about engineering; fixing things is a useful skill to her rather than the center of her identity. Socially much more outgoing than Wren and often acts as the person who keeps conversations moving.
+
+ - Appearance: Slightly shorter than Wren, with a similar steampunk aesthetic.
+
+ - Voicing notes: Loose, energetic and quick. Comfortable with jokes and teasing, but able to become completely serious without hesitation when something genuinely matters.
+
+#### **Yara**
+
+ - (Mentioned but not appearing this episode)
+
+ - The elder of Tethermoor, **female**.
+An elderly woman with a long memory and a deep knowledge of the world's older history. Warm and grandmotherly toward younger people, but also mischievous and fond of tricking naive people simply because she finds it funny. She doesn't do it maliciously and knows when to stop playing. Patient, observant and comfortable withholding information, partly because she has an enormous amount of knowledge and partly because she enjoys watching people discover things for themselves.
+
+ - Appearance: Gray hair, old-fashioned/grandmotherly clothing.
+
+ - Voicing notes: Slow, warm and deliberate. Her humor should come from how innocently she delivers something manipulative or mischievous. When she is serious, it should be subtle but unmistakable.
+
+
+### Thread B - The Spire
+
+#### Overseer Castellan Vey
+
+ - Head of the Spire's government, **female**. Mid-30s.
+
+ - A highly composed and morally driven leader who genuinely believes the Spire's system can be made better. She tries to solve problems without unnecessary harm and believes that given enough information and effort, almost any crisis can be resolved. Extremely strong emotional self-control allows her to remain calm under pressure, but that control has become partly deliberate: she has learned not to let other people see when she is struggling. Deeply lonely and accustomed to relying almost entirely on herself, she has very few genuine personal relationships. Her few connections that she considers friendships therefore matter more to her than she is likely to admit.
+
+ - Appearance: Shorter, has orange-blonde hair, Formal official clothing.
+
+ - Voicing notes: Measured, quiet and controlled. She doesn't need to raise her voice to establish authority. Even when emotionally strained, she tries to maintain the same controlled rhythm. Rare moments where that control slips should feel significant.
+
+#### Councilor Commander Brask
+
+ - Head of the Spire's military and law enforcement, **male**. Mid-40s.
+
+ - A disciplined, pragmatic commander who believes difficult decisions should be made before circumstances force worse ones. He prefers accepting a smaller loss early if it prevents a much larger loss later. Direct and impatient with hesitation, but not needlessly aggressive and not opposed to Vey personally. He genuinely respects Vey and would rather be proven right alongside her than replace her. His methods are effective in situations where immediate action is necessary, but his confidence in them can make him underestimate situations that require patience or a different approach.
+
+ - Appearance: Muscular, short military-style haircut and formal military uniform.
+
+ - Voicing notes: Confident and direct. Not angry. He should sound like someone who is accustomed to making decisions under pressure.
 
 ---
 
 ## Scene 1 - The Spire, corridor
-*(Thread B. ~30 seconds.)*
+*(B/1, 30s)*
 
 **SETTING:** Sunrise. A stone corridor somewhere in the Spire, clearly for higher ranking officials, but not overdecorated. Brask is waiting when Vey passes through.
 
@@ -86,9 +168,13 @@
 
 > **BRASK:** *(starting to walk alongside Vey, a bit behind)* Which is why I'm asking now. We tighten the ration before that reading, not after. Let the numbers prove the decision was already right.
 
-> **VEY:** *(finally stops)* You want me to cut portions before I've even seen today's number.
+> **VEY:** *(finally stops)* You want me to cut portions before I've even seen today's number?
 
-> **BRASK:** We're handing out twice as many crystals as our capacity, a year ago we were giving away the same amount and we were keeping a quarter. We've already gone through most of the minor reserves, in a week we'll only have the central reserve left. I want you to stop waiting for the crystal to convince you of something you already know. The earlier we cut the rations the more time we have to solve this problem. 
+> **BRASK:** We're handing out twice as many crystals as our capacity. A year ago we were giving away the same amount and keeping a quarter.
+
+> **VEY:** That's what the reserves are for, to balance out the ups and downs.
+
+> **BRASK:** We've already gone through most of the minor reserves; in a week we'll only have the central reserve left. I want you to stop waiting for the crystal to convince you of something you already know. The earlier we cut the rations the more time we have to solve this problem.
 
 *(Vey looks at him for a long moment)*
 
@@ -103,7 +189,7 @@
 ---
 
 ## Scene 2 - Open sky, aboard June's airship
-*(Thread A. ~45 seconds.)*
+*(A/1, 45s)*
 
 **SETTING:** Deck of June's airship. June pilots. Wren sits nearby with a folded paper or book - notes from Yara.
 
@@ -117,15 +203,15 @@
 
 > **JUNE:** Comforting.
 
-> **WREN:**  I didn't say it was useful. I said she wrote it down.
+> **WREN:** I didn't say it was useful. I said she wrote it down.
 
 *(June checks a gauge or dial, taps it.)*
 
-> **JUNE:** We're making good time, by the way. If the wind holds, we'll see the outer Spire by tomorrow evening.
+> **JUNE:** We're making good time, by the way. If the wind holds, we'll see the Outer Spire soon enough.
 
 > **WREN:** *(looking out into the open)* I've never seen it. Not really. Just the shape of it on a map.
 
-> **JUNE:** *(lighter)* I saw it once as a child, got brought along by some merchants. Only the inner Spire is interesting, rest is like at home but with more cops. It's big. And shiny.  And full of people who are going to be very confused about what "a Tethermoor" is.
+> **JUNE:** *(lighter)* I saw it once as a child, got brought along by some merchants. Only the Inner Spire is interesting, the rest is like at home but with more cops. It's big. And shiny. And full of people who are going to be very confused about what "a Tethermoor" is.
 
 > **WREN:** *(dry)* Comforting.
 
@@ -134,11 +220,11 @@
 ---
 
 ## Scene 3 - Tethermoor, the bar - Bram
-*(Thread D. ~40 seconds.)*
+*(D/1, 40s)*
 
-**SETTING:** A small, dim tavern on Tethermoor we haven't seen before - a few tables, low light, a bar with bottles/mugs. Tova is at the main bar. Bram sits with a drink, already mid-story to no one in particular, maybe one half-listening guest. The bar is otherwise mostly empty, just fill with as many actory as we have. 
+**SETTING:** A small, dim tavern on Tethermoor we haven't seen before - a few tables, low light, a bar with bottles/mugs. Tova is at the main bar. Bram sits with a drink, already mid-story to no one in particular, maybe one half-listening guest. The bar is otherwise mostly empty, just fill it with as many actors as we have.
 
-> **BRAM:**  -and I said to him, I said, "she's not just a ship, she's a *career*." Fifty years on the open sky in that hull. Storms. A volcano cluster, once. I will not say which one.
+> **BRAM:** - and I said to him, I said, "she's not just a ship, she's a *career*." Fifty years on the open sky in that hull. Storms. A volcano cluster, once. I will not say which one.
 
 > **TOVA:** *(not looking up from the bar)* You will. You always do.
 
@@ -150,14 +236,14 @@
 
 *(Tova finally looks up at him, completely unimpressed.)*
 
-> **TOVA:** It was stale, Bram. You brought it here along with you to exchange for a drink. And you didn't own *that* ship for fifty years, you bought it last summer for whatever you had left from the previous one. Heck, you aren't even fifty!
+> **TOVA:** It was stale, Bram. You brought it here with you to exchange for a drink. And you didn't own *that* ship for fifty years, you bought it last summer for whatever you had left from the previous one. Heck, you aren't even fifty!
 
-*(Bram takes a breath, few second wait, Bram takes a long drink, cut.)*
+*(Bram takes a breath, few second wait, then takes a long drink, cut.)*
 
 ---
 
 ## Scene 4 - Aboard the airship, continued
-*(Thread A. ~35 seconds.)*
+*(A/1, 35s)*
 
 **SETTING:** Deck of June's airship. Later in the day. Pipe sounds, breaking and hissing steam. June's expression changes immediately.
 
@@ -167,7 +253,7 @@
 
 > **JUNE:** *(checking the gauge, slapping it once)* The burner, it's not holding lift the way it should.
 
-*(The ship dips slightly.)*
+*(The ship dips slightly, starts drifting a bit.)*
 
 > **WREN:** Can you fix it mid-air?
 
@@ -175,7 +261,7 @@
 
 > **WREN:** We're nowhere near the Spire.
 
-> **JUNE:** *(looking around outside the ship)* No. *(looks on the ships right side, few second wait)* But there's a cluster off the right side. Small, looks like a waystation. Might not be friendly, might not be anything. Beats falling out of the sky, though.
+> **JUNE:** *(looking around outside the ship)* No. *(looks off the ship's right side, few second wait)* But there's a cluster off the right side. Small, looks like a waystation. Might not be friendly, might not be anything. Beats falling out of the sky, though.
 
 > **WREN:** *(steadying herself, practical despite the fear)* Take us down.
 
@@ -184,7 +270,7 @@
 ---
 
 ## Scene 5 - A drifting waystation, exterior
-*(Thread A. ~25 seconds.)*
+*(A/1, 25s)*
 
 **SETTING:** A small, scrappy cluster, clearly not Tethermoor, clearly not Spire territory. The main island and outer ones are connected via planks, forming a giant dock. A few patchwork buildings, salvaged materials. There is a larger (not large, just larger) ship docked, and some smaller ones (about the size of June's). June's airship comes down rough but intact, a bit of a crash putting a hole in the hull, while also breaking some of the dock. Wren and June step out, looking around.
 
@@ -196,7 +282,7 @@
 
 *(Wren walks towards the airship's nose, examines the damage to the hull)*
 
-> **WREN:** Great, hull is open, half the controls are gone... as if the burner wasn't enough.
+> **WREN:** Great, hull is open... as if the burner wasn't enough.
 
 > **JUNE:** *(glancing around, lowering her voice)* Can we talk about this just a little more privately so not everyone hears us?
 
@@ -205,7 +291,7 @@
 ---
 
 ## Scene 6 - Tethermoor, the bar - Bram
-*(Thread D. ~25 seconds.)*
+*(D/1, 25s)*
 
 **SETTING:** Same bar, a little later. Bram has a new audience member, looking more trapped than interested.
 
@@ -213,9 +299,9 @@
 
 > **TOVA:** *(passing by with drinks, stops next to Bram)* You crashed that ship into Driftwood, sold it to locals and had a new one in a day.
 
-> **BRAM:** *(without missing a beat)*  Yes, but I could not have crashed it if I met my end on that sunny afternoon!
+> **BRAM:** *(without missing a beat)* Yes, but I could not have crashed it if I met my end on that sunny afternoon!
 
-> **TOVA:** *(flat)* You also said there was lightning. Like 15 seconds ago. Out loud.
+> **TOVA:** *(flat)* You also said there was lightning. Like fifteen seconds ago. Out loud.
 
 > **BRAM:** *(waving a hand)* Lesser lightning...
 
@@ -224,7 +310,7 @@
 ---
 
 ## Scene 7 - Waystation
-*(Thread A & C. ~55 seconds.)*
+*(A/1, C/1, 55s)*
 
 **SETTING:** Small structure around June's airship, *(some poles which were already there when they landed)* the ship is tied to ropes holding it to the dock, and keeping it from falling. Crates and scrap stacked around. Wren and June are inspecting the ship when a figure approaches at an easy, unhurried pace - Rell, with Hask a step behind her.
 
@@ -232,65 +318,69 @@
 
 > **WREN:** *(straightening up, wary)* Burner issues. We're not looking for trouble.
 
-> **RELL:** *(easy, smiling)* Good. Trouble's bad for business, and you've landed yourself square in the middle of mine.
+> **RELL:** *(easy, smiling)* Trouble? Oh no, we charge extra for trouble.
 
 *(Hask says nothing, watching the ship more than the people.)*
 
-> **JUNE:** *(stepping slightly in front of Wren, casual but guarded)* And what business would that be?
+> **JUNE:** *(stepping slightly in front of Wren, casual but guarded)* And what's your business here?
 
-> **RELL:** Trade. Goods in, goods out, the gaps nobody else bothers servicing. *(gestures around)* Folk like you two don't usually wash up here unless they're lost, running, or both.
+> **RELL:** Trade. Goods in, goods out, the gaps nobody else bothers servicing. *(gestures around)* Folk like you two don't usually wash up here.
 
 > **WREN:** *(carefully)* We're headed to the Spire.
 
-*(Rell's expression shifts - interested, not surprised.)*
+*(Rell's expression shifts, interested, not surprised.)*
 
 > **RELL:** The Spire. *(glances at Hask, then back)* That's a long way to fly in a ship that sounds like it's coughing up a lung.
 
 > **JUNE:** *(defensive)* She's held up fine so far.
 
-> **RELL:** *(amused, not unkind)* Aye, I'm sure she has! What's a Tethermoor crest doing all the way out here, anyway?
+> **RELL:** *(amused, not unkind)* I'm sure she has! What's a Tethermoor crest doing all the way out here, anyway?
 
-*(Wren and June exchange a glance - they hadn't said where they were from.)*
+*(Wren and June exchange a glance, they hadn't said where they were from.)*
 
 > **WREN:** *(guarded)* How did you know that?
 
-> **RELL:** *(taps the side of the ship lightly, where a small marking is)* Crest's right there, love. I've just got an eye for these things. *(lighter)* Come on. Let's have a look at what's ailing her before you two start looking at me like that. 
+> **RELL:** *(taps the side of the ship lightly, where a small marking is)* Crest's right there, love. I've just got an eye for these things. *(lighter)* Come on. Let's have a look at what's ailing her before you two start looking at me like that.
 
 > **WREN:** *(to June)* I mean you did carve the crest there...
 
 ---
 
 ## Scene 8 - Negotiation
-*(Thread A & C. ~50 seconds.)*
+*(A/1, C/1, 50s)*
 
 **SETTING:** Same dock. Hask has crouched by the ship's crystal housing, inspecting it. Rell stands with Wren and June.
 
-> **HASK:** *(without looking up)* Crystal's not damaged. It's just old. Old and tired and asking for more than this little rig can give it. Burner needs some new pipes, and your controls are wrecked.
+> **HASK:** *(without looking up)* Crystal's fine.
+
+> **JUNE:** Fine?
+
+> **HASK:** It's just old.
 
 > **WREN:** Can it be fixed?
 
-> **HASK:** *(standing, wiping hands)* Patched. Not fixed. Patched gets you in the air. Fixed is a shipmaster's job, and good luck getting one of those out here. 
+> **HASK:** *(standing, wiping hands)* Patched. Not fixed.
 
-> **RELL:** *(to Wren, watching her closely)* You're not just here for the ship, are you? *(quick pause)* What's actually waiting for you at the Spire?
+*(Camera shifts to Rell and Wren.)*
+
+> **RELL:** *(to Wren, presented as a guess)* So you're going to the petitions hall?
 
 *(Wren hesitates. June looks at her.)*
 
-> **WREN:** *(carefully)* Cluster stuff. We're going to petition, boring paperwork.
+> **WREN:** *(carefully)* Yeah, cluster stuff, boring paperwork.
 
-*(Rell goes quiet for a moment - something that she doesn't show fully.)*
-
-> **RELL:** *(recovering, light again)* Then you'll want to arrive in one piece. *(laughs)* Lucky for ya, we can patch that burner up proper, and point you the fastest way!
+> **RELL:** Well, then you'll want to arrive in one piece. *(laughs)* Lucky for ya, we can patch that burner up proper, and point you the fastest way in!
 
 > **JUNE:** *(suspicious)* And what's that going to cost us?
 
-> **RELL:** *(grinning)* Now there's a sailor's question! Let's get her patched first, We'll talk price after. I find it's easier to bargain with someone once they've already got their feet back under them.
+> **RELL:** *(grinning)* Now there's a sailor's question! Let's get her patched first. We'll talk price after. I find it's easier to bargain with someone once they've already got their feet back under them.
 
 *(She turns and walks off without waiting for an answer. Hask gives Wren and June a brief look before following.)*
 
 ---
 
 ## Scene 9 - Hask pulls Rell aside
-*(Thread C. ~30 seconds.)*
+*(C/1, 30s)*
 
 **SETTING:** A little apart from the dock, out of earshot. Hask catches up to Rell.
 
@@ -298,51 +388,53 @@
 
 > **RELL:** *(not stopping)* Did I say free?
 
-> **HASK:** You also didn't name a price. That's worse.
+> **HASK:** You also didn't name a price.
 
-> **RELL:** *(stops, turns to him)* Two young people sent to do paperwork heading straight for a Spire petitions hall. That's not nothing Hask. That's a door.
+> **RELL:** I will.
 
-> **HASK:** *(flat)* A door to what?
+> **HASK:** When?
 
-> **RELL:** *(something carefully withheld)* Haven't decided yet. *(lighter again)* But I didn't survive this long by turning down doors before I know what's behind 'em!
+> **RELL:** When I know what they're worth.
 
-> **HASK:** *(unconvinced, but backing off)* Your call. Just don't forget what happened last time you went looking behind one of those doors around the Spire.
+> **HASK:** That's not how repairs work.
 
-*(Rell doesn't answer that, she just keeps walking. Cut.)*
+> **RELL:** Good thing we're not selling repairs.
+
+*(keep walking, stop talking for a second)*
+
+> **HASK:** They're going to the Spire.
+
+> **RELL:** *(responding quickly, almost cutting him off)* And so are we.
+
+> **HASK:** It's a little different.
+
+> **RELL:** Is it?
 
 ---
 
 ## Scene 10 - Wren and June alone
-*(Thread A. ~30 seconds.)*
+*(A/1, 30s)*
 
 **SETTING:** A quieter corner near the ship, waiting while it's worked on. Wren and June, lower voices.
 
 > **JUNE:** *(watching Rell and Hask work)* They're good. Whatever they are, they're good at it.
 
-> **WREN:** *(quiet)* That's what worries me.
+> **WREN:** *(quiet)* Yeah.
 
-> **JUNE:** *(glancing at her)* You don't trust her.
+> **JUNE:** That's a good thing.
 
-> **WREN:** I don't trust how fast she figured out where we're from. Or how fast she offered to help. People back home don't move that fast unless they want something.
+> **WREN:** *(suspicious)* Depends why...
 
-> **JUNE:** *(half joking)* Maybe she's just nice.
+> **JUNE:** *(half joking)* Do you think she's hiding something?
 
-> **WREN:** *(pessimistic, suspicious)* Nobody's just nice, June.
+> **WREN:** *(pessimistic, suspicious)* I think she's hiding lots of things.
 
-> **JUNE:** *(more serious)* We need the ship fixed, and we need to get to the Spire before -
-
-> **WREN:** *(cuts June off, little annoyed)* - before it doesn't matter anymore. I know.
-
-*(Quiet seconds between them.)*
-
-> **JUNE:** So we let her help. And we watch our backs.
-
-> **WREN:** *(nodding slowly)* We watch our backs.
+> **JUNE:** *(jokingly, dismissing Wren's suspicion. laughing a bit)* Well that's basically everyone who owns a ship.
 
 ---
 
-## Scene 11 - The deal is struck
-*(Thread A & C. ~55 seconds)*
+## Scene 11 - A deal is struck
+*(A/1, C/1, 50s)*
 
 **SETTING:** Back at the dock. The ship looks better, some new plating, a patched housing.
 
@@ -350,17 +442,31 @@
 
 > **WREN:** *(steady, she knew this was coming)* Name it.
 
-> **RELL:** *(easy)* We're headed toward the Spire ourselves on a bit of business. One stop along the way, one job that needs an extra set of hands and a ship nobody official looks at twice. *(gestures at their ship)* Yours fits that description nicely.
+> **RELL:** *(easy)* So ya told me you're goin' to the Spire, and we're actually heading that way ourselves.
 
-> **JUNE:** *(wary, suspicious)* What kind of job?
+> **WREN:** *(not loud, almost to herself, but loud enough for others to hear)* Convenient.
 
-> **RELL:** *(light, deflecting)* Nothing that'll cost ya anything but time and a bit of nerve. I'll have the particulars by the time we need them. For now you help us with that, and we'll see you land at the Spire faster and safer than you'd manage limping in on your own. *(smile/friendly laugh)* Call it a fair trade between fellow trav'lers of the sky!
+> **RELL:** *(responding, bit less loud)* Very.
+
+> **WREN:** *(interrupting before Rell continues)* So what's the catch?
+
+> **RELL:** Ah, there it is. I was wondering when you'd ask.
+
+> **WREN:** *(annoyed)* What do you want?
+
+> **RELL:** Just a favour.
+
+> **JUNE:** *(to Wren)* That's pretty vague.
+
+> **WREN:** *(to June)* And I'm guessing deliberately.
+
+> **RELL:** Just one job. Then we're done.
 
 *(Wren glances at June. Thinking about the crystal at home, which limits how much time they have)*
 
 > **WREN:** *(after a moment)* ...Fine. One job. Then we're done.
 
-> **RELL:** *(extending a hand to shake)* Aye! One job. 
+> **RELL:** *(extending a hand to shake)* Aye! One job.
 
 *(They shake. Hask watches from a distance, saying nothing.)*
 
@@ -371,7 +477,7 @@
 ---
 
 ## Scene 12 - Tethermoor, the bar - Bram
-*(Thread D. ~55 seconds.)*
+*(D/1, 55s)*
 
 **SETTING:** Same bar. Bram is now standing, gesturing broadly, the story having grown considerably.
 
@@ -381,26 +487,26 @@
 
 > **BRAM:** You just weren't on the crew that day, the monster was definitely real!
 
-> **TOVA:** Was this before I joined, or after you left most of us on Driftwood because you couldn't get a big enough ship? 
+> **TOVA:** Was this before I joined, or after you left most of us on Driftwood because you couldn't get a big enough ship?
 
-> **BRAM:** Driftwood's a nice cluster, I wouldn't be upset if I was left there! 
+> **BRAM:** Driftwood's a nice cluster, I wouldn't be upset if I was left there!
 
 *(clears his throat)*
 
-> **BRAM:** *(starting to warm up again)* So the sea monster struck us with one of its tentacles, tearing the sail and putting a hole through the deck, but then I Struck it with my sword and cut its tentacle off in a single slice! I jumped right at the monster, swinging my sword - 
+> **BRAM:** *(starting to warm up again)* So the sea monster struck us with one of its tentacles, tearing the sail and putting a hole through the deck, but then I struck it with my sword and cut its tentacle off in a single slice! I jumped right at the monster, swinging my sword -
 
 > **TOVA:** *(skeptically)* - Did you say it was a sea monster? I rarely see any seas around here, as far as I know we don't have any since the Sundering, only a few lakes here and there.
 
 > **BRAM:** *(a little bit shaken, improvising)* Yes... that's true, *(quickly, "heroically")* because it was actually a SKY MONSTER! *(as kind of a remark, but loud enough for everyone to hear)* But it was basically a sea monster that could fly, so it was easier to explain this way to you, who haven't seen as many adventures as I have!
 
-> **TOVA:** *(rolling eyes)* At least I didn't turn my father's 20-ship trading fleet into a single ship I sold for bread...
+> **TOVA:** *(rolling eyes)* At least I didn't turn my father's twenty-ship trading fleet into a single ship I sold for bread...
 
 *(Cut.)*
 
 ---
 
 ## Scene 13 - Completing ship repairs
-*(Thread A & C. ~30 seconds.)*
+*(A/1, C/1, 30s)*
 
 **SETTING:** Dock, a bit later. Wren works alongside Hask on a final piece of the repair, handing tools, tightening something. June and Rell are elsewhere or in the background.
 
@@ -420,7 +526,7 @@
 
 > **HASK:** *(choosing words carefully, speaking slowly)* Means we don't fly where everyone else flies. *(pause, bit lighter mood)* You'll see soon enough. Don't overthink it.
 
-*(He slaps something, finishing its repair)*
+*(He slaps something, finishing its repair.)*
 
 > **HASK:** That'll hold. Try not to put a hole in it before we get where we're going.
 
@@ -431,9 +537,9 @@
 ---
 
 ## Scene 14 - Taking off
-*(Thread A & C. ~25 seconds)*
+*(A/1, C/1, 25s)*
 
-**SETTING:** Dock, June's small ship next to Rell's larger one
+**SETTING:** Dock, June's small ship next to Rell's larger one.
 
 > **RELL:** *(energetic)* Let's get goin', shall we?
 
@@ -447,34 +553,34 @@
 
 *(Rell's ship backs out from the dock, breaking some of the dock while doing so)*
 
-> **RELL:** And just so ya 'now, I put some ropes between our ships, so you don't get lost!
+> **RELL:** And just so ya 'know, I put some ropes between our ships, so you don't get lost!
 
 *(June's ship starts moving slowly but gets torn out of the dock by Rell's)*
 
 > **JUNE:** *(surprised, to Wren)* Woooah, this wasn't part of the deal!
 
-> **WREN:** Not the first thing suspicious about them... 
+> **WREN:** Not the first thing suspicious about them...
 
 *(Cut.)*
 
 ---
 
-## Scene 15 - Tethermoor - The bar - Bram
-*(Thread D. ~60 seconds.)*
+## Scene 15 - Tethermoor, the bar - Bram
+*(D/1, 60s)*
 
 **SETTING:** The same bar, Bram is sitting at the counter, talking to nobody, as he has no audience left other than Tova.
 
 > **TOVA:** *(ironically, but also a bit kinder than before, little bit teasing)* What happened? Cat got your tongue?
 
-> **BRAM:** *(disappointed, surprised by Tova's question, happy because she asked)* Noone to talk to, unless you wanna hear my stories...
+> **BRAM:** *(disappointed, surprised by Tova's question, happy because she asked)* No one to talk to, unless you wanna hear my stories...
 
-> **TOVA:** Do I want to? Think I heard enough of them in that year I spent on your ship. 
+> **TOVA:** Do I want to? Think I heard enough of them in that year I spent on your ship.
 
-> **BRAM:** *(nostalgic)* Ah, Thunderbolt. Great ship! Carried me through 2 divorces!
+> **BRAM:** *(nostalgic)* Ah, Thunderbolt. Great ship! Carried me through two divorces!
 
 > **TOVA:** *(teasing, cutting him off at the end of his sentence)* Not hard to get divorced if you accidentally leave them on a random cluster...
 
-> **BRAM:** Hey, I didn't leave them... they just decided not to board! 
+> **BRAM:** Hey, I didn't leave them... they just decided not to board!
 
 > **TOVA:** *(calm, irritated)* Like we did on Driftwood...
 
@@ -482,13 +588,15 @@
 
 > **BRAM:** *(more seriously, apologetic)* Look kid... I never knew what to do after failing... I just get another ship from what I have left, and start again...
 
-> **TOVA:** And a new crew, or no crew at all it seems... 
+> **TOVA:** And a new crew, or no crew at all it seems...
 
 > **BRAM:** Well, at least I can't leave any more crew behind, I drank away everything I had left...
 
 > **TOVA:** No more adventures for you it seems. I am looking for someone to clean the bar though...
 
-> **BRAM:** You know what? After all theese years I spent commanding a crew I had not earned - 
+*(Bram looks towards the door, then towards the bar, then at the empty glass)*
+
+> **BRAM:** You know what? After all these years I spent commanding a crew I had not earned -
 
 > **TOVA:** *(cutting him off, bit ironic)* - You will finally get a job?
 
@@ -496,69 +604,75 @@
 
 *(Bram stands up and storms out yelling)*
 
-> **BRAM:** Adventure, here I come! 
+> **BRAM:** Adventure, here I come!
 
 *(storms out the door)*
 
-> **TOVA:** Lucky he left his gold here, I know he wouldn't have paid otherwise... 
+> **TOVA:** Lucky he left his gold here, I know he wouldn't have paid otherwise...
 
 *(Cut.)*
 
 ---
 
 ## Scene 16 - The patrol stop
-*(Thread A & C. ~90 seconds. Max on-screen: 5 - Wren, June, Rell, Hask, Patrol Officer.)*
+*(A/1, C/1, 80s)*
 
-**SETTING:** Open sky, both ships flying close together June's small airship alongside a larger trader vessel (Rell and Hask's). Wren and June at the controls of their own ship.
+**SETTING:** Open sky, both ships flying close together - June's small airship alongside a larger trader vessel (Rell and Hask's). Wren and June at the controls of their own ship.
 
-*(a patrol ship appears, made of metal, no balloon because it flies via crystal. Old but clearly expensive government ship)*
+*(A patrol ship appears, made of metal, no balloon because it flies via crystal. Old but clearly expensive government ship)*
 
-> **RELL:** Oh for heaven's sake, not one of theese again!
+> **RELL:** *(annoyed, not worried)* Oh for heaven's sake, not one of these again!
 
-**SETTING:** *(Both ships held alongside a Spire patrol vessel. A Patrol Officer crosses over, clipboard or inspection tool in hand. Wren and June stand on their ship; Rell and Hask approach from theirs, unhurried.)*
+**SETTING:** Both ships held alongside a Spire patrol vessel. A Patrol Officer crosses over, clipboard or inspection tool in hand. Wren and June stand on their ship; Rell and Hask approach from theirs, unhurried.
 
-> **PATROL OFFICER:** *(to the group generally)* Routine inspection. Cargo, papers, point of origin.
+> **PATROL OFFICER:** *(to the group generally)* Routine inspection. Point of origin?
 
-> **RELL:** *(easy, stepping forward first)* Evening. Traders, out of the outer routes. Nothing aboard but goods and good intentions.
+> **RELL:** *(easy, stepping forward first)* Evening. We're traders from the outer routes.
 
-> **PATROL OFFICER:** *(unimpressed, looking at a manifest)* We'll see about that. *(gestures)* Open the hold.
+> **PATROL OFFICER:** *(serious)* Which cluster?
 
-*(Hask grunts quietly, Rell's mood gets a little less happy, but she tries not to show it)*
+> **RELL:** *(with deliberately fake seriousness)* Several.
 
-> **RELL:** *(smooth, buying time)* Of course. Just give us a moment to-
+> **PATROL OFFICER:** *(still serious)* That's not a cluster.
 
-> **PATROL OFFICER:** *(cutting her off)* Now.
+> **RELL:** No, it's multiple clusters.
 
-> **RELL:** *(little irritated, still lightly, jokingly)* Just give us a moment to get the keys from the cabin! Don't wanna ruin me new locks!
+> **PATROL OFFICER:** Okay, so no home cluster. *(writes down something)* Cargo manifest?
 
-*(Rell enters the cabin on their ship, a firing noise can be heard)*
+> **RELL:** In the cabin.
 
-*(Wren notices the shift in Rell's posture - small, controlled - but doesn't understand it yet.)*
+> **PATROL OFFICER:** Then go and get it.
 
-> **WREN:** *(quietly, to June)* Something's wrong.
+> **RELL:** *(turning around, smooth)* I'll be right back officer!
 
-*(Suddenly a loud mechanical bang and a burst of steam/smoke from the rear of the patrol (ship which lines up with the cabin), like an engine fault. The Patrol Officer turns sharply toward the noise.)*
+*(Rell starts walking to the cabin, nods at Hask.)*
+
+*(As Rell enters the cabin, Hask moves to block view of the cabin)*
+
+*(few seconds later a metallic clicking sound, then a firing sound can be heard)*
+
+*(Suddenly a loud mechanical bang and a burst of steam/smoke from the rear of the patrol ship (which lines up with the cabin), like an engine fault. The Patrol Officer turns sharply toward the noise.)*
 
 > **PATROL OFFICER:** What was that-
 
-*(gets back on their ship running)*
+> **HASK:** *(not surprised, to the officer)* There goes your coupling.
 
-> **HASK:** *(already moving, alarmed-sounding but controlled, jokingly "shouting" so Wren and June hear)* Crystal coupling's overheating, happens quite often when you overuse a crystal powered ship!
+*(Hask runs back to their ship.)*
 
 *(More smoke. Shouting, motion, the Patrol Officer's attention fully diverted toward the apparent malfunction. In the confusion, Rell waves sharply at Wren and June.)*
 
-> **RELL:** *(low, urgent, but still oddly calm)* Go now, follow close, don't ask questions till we're clear!
+> **RELL:** *(low, urgent, but still oddly calm)* Go now, follow close.
 
-*(June doesn't hesitate - engines firing. Both ships peel away from the patrol vessel fast, leaving the Officer still shouting orders into the smoke behind them.)*
+*(June doesn't hesitate, engines firing. Both ships peel away from the patrol vessel fast, leaving the Officer still shouting orders into the smoke behind them.)*
 
 *(Ships flying into the open, smoke from the patrol ship, cut.)*
 
 ---
 
 ## Scene 17 - Clear of it
-*(Thread A. ~20 seconds.)*
+*(A/1, 20s)*
 
-**SETTING:** Open sky again, the patrol vessel now small and distant behind them. Wren and June catching their breath in their cabin. Rell's ship flies steady alongside.
+**SETTING:** Open sky again, the patrol vessel now small and distant behind them. Wren and June catching their breath. Rell's ship flies steady alongside.
 
 > **JUNE:** *(breathless, half-laughing)* Okay. That was either the worst luck or the best luck I've had all week.
 
@@ -566,50 +680,56 @@
 
 > **JUNE:** *(shrugging)* Old ships break at the worst times. Believe me, I'd know.
 
-*(Wren looks toward Rell's ship, something not quite settled in her expression - not suspicion yet, just a loose thread she hasn't pulled.)*
+*(Wren looks toward Rell's ship)*
 
 > **WREN:** *(quiet)* Yeah. Lucky.
 
-*(She lets it go, for now. June grins, relieved, and pushes the throttle forward.)*
-
-> **JUNE:** Spire's dead ahead. Let's not waste the luck we've got.
+> **JUNE:** Spire's waiting for us. Let's not waste the luck we've got.
 
 ---
 
 ## Scene 18 - Approaching a cluster
-*(Thread A & C. ~65 seconds.)*
+*(A/1, C/1, 45s)*
 
-**SETTING:** Wide shot, open sky, a larger cluster now visible in the distance for the first time. Has a big building on it, with a giant dock, it's some kind of trading hall
+**SETTING:** Wide shot, open sky, a larger cluster now visible in the distance for the first time. It has a big building on it, with a giant dock - some kind of trading hall.
 
-> **RELL:** *(shouting over to other ship)* There it is!
+> **RELL:** *(shouting over to the other ship)* There it is!
 
-> **JUNE:** There is what?
+> **JUNE:** The Spire?
 
-> **RELL:** *(Jumps over from other ship's sail)* An outside trade hall! First sign of actual Spire controlled territory!
+> **RELL:** *(jumps over from the other ship's sail)* Trade hall. Spire's been putting them along outer routes.
 
-> **WREN:** Isn't everything outside the outer Spire considered uncontrolled? What was the officer doing out of the outer Spire?
+> **WREN:** That's Spire territory already?
 
-> **RELL:** Oh sweet girl, you really don't know nothin'. The Spire's been expanding, putting controlled trading outposts outside the outer Spire!
+> **RELL:** Has been for years.
 
-> **WREN:** But not even the outer Spire is completely under control, why are they expanding?
+> **JUNE:** But this was just a normal cluster last time.
 
-> **RELL:** Oh the outer Spire is under control, they really got to work this past few years. Even built a rope wall with gates around the outer Spire.
+> **RELL:** Things change.
 
-> **JUNE:** That's definitely progress since I was here... I only remember the inner Spire having a wall.
+> **WREN:** *(looking at a little book, not loud, to herself)* Yara's notes don't mention any of this -
 
-> **WREN:** Wait, so all the notes I've been memorizing from Yara -
+> **RELL:** *(cutting Wren off, not unkindly)* - Yara's notes?
 
-> **RELL:** *(cutting Wren off, not unkindly, rather comedically)* - they're all outdated!
+> **WREN:** She gave them to me to get to the petitions hall.
 
-*(Wren sighs)*
+> **RELL:** Ah, that explains it.
 
-> **RELL:** Don't worry, they probably would have been outdated two decades ago too if you got them from Yara, last I saw her leaving Tethermoor was when I was 'bout 12 years old.
+> **JUNE:** *(To Rell)* You know Yara?
 
-> **JUNE:** *(to Wren, quietly)*  Wait, she knows Yara?
+> **RELL:** Knew her, long time ago.
 
-> **WREN:** *(to June, quietly)* Well everyone knows Yara, at least everyone who's ever been to Tethermoor.
+> **JUNE:** How long?
 
-> **RELL:** *(to Wren and June)* Stop whispering behind my back, prepare yourselves!
+> **RELL:** Forty years.
+
+> **JUNE:** *(thinking about it, it's a long time)* Forty...
+
+> **RELL:** And she was already old then.
+
+*(Wren looks at June, June looks at Wren)*
+
+> **RELL:** *(to Wren and June)* Prepare yourselves!
 
 > **WREN:** For what?
 
@@ -625,10 +745,8 @@
 
 - **Time approximations** were made by reading the script and timing it, may be inaccurate because of my reading speed. I think my reading is faster than the actual times, though I do try to read as if I was speaking and wait out some of the acting.
 - **New builds needed for Ep2:** the waystation dock/market area (Scenes 5, 7-11, 13), Tethermoor bar interior (Scenes 3, 6, 12, 15), Spire Council corridor - small, can likely reuse/adapt a corner of the Mothercrystal vault set (Scene 1).
-- **Reused from Ep1:** June's airship interior and exterior (Scenes 2, 4, 14, 17, 18), open sky shots.
-- **New for Scene 15:** a larger Spire patrol vessel exterior, doesn't need a full interior, mostly needs to read as bigger/official next to the two smaller ships. A simple smoke/steam effect (particles, or even just a quick cut away) covers the "distraction" beat without needing complex animation.
+- **Reused from Ep1:** June's airship (Scenes 2, 4, 14, 17, 18), open sky shots.
+- **New for Scene 16:** a larger Spire patrol vessel exterior, doesn't need a full interior, mostly needs to read as bigger/official next to the two smaller ships. A simple smoke/steam effect (particles, or even just a quick cut away) covers the "distraction" beat without needing complex animation.
 - **Bar set note:** small, doesn't need much. A bar counter, a couple of tables, dim lighting. Can be compact since Bram and Tova carry the scenes through dialogue, not blocking.
 - **Trader ship:** suggest a slightly larger, scrappier-looking vessel than June's. Visually distinct (more cargo netting, patched hull, mismatched parts) to read as "trader" at a glance, while still clearly capable of outrunning a patrol when it needs to.
-- **Max on-screen count:** Scene 16 is the highest at 5 (Wren, June, Rell, Hask, Patrol Officer)
-
-- *Scene 3 setting: item frames.*
+- **Max on-screen count:** Scene 16 is the highest at 5 (Wren, June, Rell, Hask, Patrol Officer).
